@@ -1,0 +1,5 @@
+{
+    "buildCommand": "echo skipped",
+    "installCommand": "echo skipped",
+    "outputDirectory": "dist"
+}
